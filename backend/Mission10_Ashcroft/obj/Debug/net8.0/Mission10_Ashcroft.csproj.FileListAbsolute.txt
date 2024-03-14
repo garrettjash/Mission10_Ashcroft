@@ -125,3 +125,4 @@ C:\Users\garre\source\repos\Mission10_Ashcroft\backend\Mission10_Ashcroft\bin\De
 C:\Users\garre\source\repos\Mission10_Ashcroft\backend\Mission10_Ashcroft\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\garre\source\repos\Mission10_Ashcroft\backend\Mission10_Ashcroft\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\garre\source\repos\Mission10_Ashcroft\backend\Mission10_Ashcroft\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\garre\source\repos\Mission10_Ashcroft\backend\Mission10_Ashcroft\obj\Debug\net8.0\Mission10_Ashcroft.sourcelink.json
