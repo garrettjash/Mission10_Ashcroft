@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\garre\\source\\repos\\Mission10_Ashcroft\\backend\\Mission10_Ashcroft\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB479EEB-42B9-44CC-8865-5F5FDC4F9956}|Mission10_Ashcroft.csproj|c:\\users\\garre\\source\\repos\\mission10_ashcroft\\backend\\mission10_ashcroft\\models\\bowlingleaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB479EEB-42B9-44CC-8865-5F5FDC4F9956}|Mission10_Ashcroft.csproj|solutionrelative:models\\bowlingleaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB479EEB-42B9-44CC-8865-5F5FDC4F9956}|Mission10_Ashcroft.csproj|c:\\users\\garre\\source\\repos\\mission10_ashcroft\\backend\\mission10_ashcroft\\models\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB479EEB-42B9-44CC-8865-5F5FDC4F9956}|Mission10_Ashcroft.csproj|solutionrelative:models\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB479EEB-42B9-44CC-8865-5F5FDC4F9956}|Mission10_Ashcroft.csproj|c:\\users\\garre\\source\\repos\\mission10_ashcroft\\backend\\mission10_ashcroft\\controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB479EEB-42B9-44CC-8865-5F5FDC4F9956}|Mission10_Ashcroft.csproj|solutionrelative:controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB479EEB-42B9-44CC-8865-5F5FDC4F9956}|Mission10_Ashcroft.csproj|c:\\users\\garre\\source\\repos\\mission10_ashcroft\\backend\\mission10_ashcroft\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB479EEB-42B9-44CC-8865-5F5FDC4F9956}|Mission10_Ashcroft.csproj|solutionrelative:models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB479EEB-42B9-44CC-8865-5F5FDC4F9956}|Mission10_Ashcroft.csproj|c:\\users\\garre\\source\\repos\\mission10_ashcroft\\backend\\mission10_ashcroft\\models\\efbowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB479EEB-42B9-44CC-8865-5F5FDC4F9956}|Mission10_Ashcroft.csproj|solutionrelative:models\\efbowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB479EEB-42B9-44CC-8865-5F5FDC4F9956}|Mission10_Ashcroft.csproj|c:\\users\\garre\\source\\repos\\mission10_ashcroft\\backend\\mission10_ashcroft\\models\\ibowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB479EEB-42B9-44CC-8865-5F5FDC4F9956}|Mission10_Ashcroft.csproj|solutionrelative:models\\ibowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\garre\\source\\repos\\Mission10_Ashcroft\\backend\\Mission10_Ashcroft\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Models\\Team.cs",
+              "ToolTip": "C:\\Users\\garre\\source\\repos\\Mission10_Ashcroft\\backend\\Mission10_Ashcroft\\Models\\Team.cs",
+              "RelativeToolTip": "Models\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:19:37.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\garre\\source\\repos\\Mission10_Ashcroft\\backend\\Mission10_Ashcroft\\Models\\Bowler.cs",
+              "RelativeDocumentMoniker": "Models\\Bowler.cs",
+              "ToolTip": "C:\\Users\\garre\\source\\repos\\Mission10_Ashcroft\\backend\\Mission10_Ashcroft\\Models\\Bowler.cs",
+              "RelativeToolTip": "Models\\Bowler.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:18:17.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BowlerController.cs",
+              "DocumentMoniker": "C:\\Users\\garre\\source\\repos\\Mission10_Ashcroft\\backend\\Mission10_Ashcroft\\Controllers\\BowlerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BowlerController.cs",
+              "ToolTip": "C:\\Users\\garre\\source\\repos\\Mission10_Ashcroft\\backend\\Mission10_Ashcroft\\Controllers\\BowlerController.cs",
+              "RelativeToolTip": "Controllers\\BowlerController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwCkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T23:42:13.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EFBowlerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\garre\\source\\repos\\Mission10_Ashcroft\\backend\\Mission10_Ashcroft\\Models\\EFBowlerRepository.cs",
+              "RelativeDocumentMoniker": "Models\\EFBowlerRepository.cs",
+              "ToolTip": "C:\\Users\\garre\\source\\repos\\Mission10_Ashcroft\\backend\\Mission10_Ashcroft\\Models\\EFBowlerRepository.cs",
+              "RelativeToolTip": "Models\\EFBowlerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T21:27:14.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBowlerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\garre\\source\\repos\\Mission10_Ashcroft\\backend\\Mission10_Ashcroft\\Models\\IBowlerRepository.cs",
+              "RelativeDocumentMoniker": "Models\\IBowlerRepository.cs",
+              "ToolTip": "C:\\Users\\garre\\source\\repos\\Mission10_Ashcroft\\backend\\Mission10_Ashcroft\\Models\\IBowlerRepository.cs",
+              "RelativeToolTip": "Models\\IBowlerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T21:26:54.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BowlingLeagueContext.cs",
+              "DocumentMoniker": "C:\\Users\\garre\\source\\repos\\Mission10_Ashcroft\\backend\\Mission10_Ashcroft\\Models\\BowlingLeagueContext.cs",
+              "RelativeDocumentMoniker": "Models\\BowlingLeagueContext.cs",
+              "ToolTip": "C:\\Users\\garre\\source\\repos\\Mission10_Ashcroft\\backend\\Mission10_Ashcroft\\Models\\BowlingLeagueContext.cs",
+              "RelativeToolTip": "Models\\BowlingLeagueContext.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAADwvz8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:35:32.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

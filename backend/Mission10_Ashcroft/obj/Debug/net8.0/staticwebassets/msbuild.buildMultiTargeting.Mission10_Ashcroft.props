@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mission10_Ashcroft.props" />
+</Project>
